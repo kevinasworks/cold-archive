@@ -1,0 +1,10 @@
+{
+  "python.tar.gz": "https://github.com/astral-sh/python-build-standalone/releases/download/20261003/cpython-3.13.16%2B20261003-aarch64-apple-darwin-install_only_stripped.tar.gz",
+  "mediainfo.dmg": "https://mediaarea.net/download/binary/mediainfo/26.05/MediaInfo_CLI_26.05_Mac.dmg",
+  "perl.tar.gz": "https://www.cpan.org/src/5.0/perl-5.42.0.tar.gz",
+  "ffmpeg.tar.xz": "https://ffmpeg.org/releases/ffmpeg-7.1.1.tar.xz",
+  "sf-release.json": "https://api.github.com/repos/richardlehane/siegfried/releases/latest",
+  "7z2603-src.tar.xz": "https://github.com/ip7z/7zip/releases/download/26.03/7z2603-src.tar.xz",
+  "certifi-2026.06.17.tar.gz": "https://codeload.github.com/certifi/python-certifi/tar.gz/refs/tags/2026.06.17",
+  "siegfried-1.11.9.tar.gz": "https://codeload.github.com/richardlehane/siegfried/tar.gz/refs/tags/v1.11.9"
+}

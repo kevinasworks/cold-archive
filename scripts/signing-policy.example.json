@@ -1,0 +1,6 @@
+{
+  "team_id": "YOUR_TEAM_ID",
+  "identity_sha1": "YOUR_CERTIFICATE_SHA1",
+  "bundle_id": "local.coldarchive.mac",
+  "purpose": "Copy to a private file, fill in your own identity, and set COLD_ARCHIVE_SIGNING_POLICY. Never publish the private policy."
+}

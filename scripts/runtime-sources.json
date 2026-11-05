@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "downloads": {
+    "python.tar.gz": {
+      "url": "https://github.com/astral-sh/python-build-standalone/releases/download/20261003/cpython-3.13.16%2B20261003-aarch64-apple-darwin-install_only_stripped.tar.gz",
+      "sha256": "9e01f63bbb08576cd9c8bc2d0564d098cb30c8453a0cd4bcf6aef458f6d2a147"
+    },
+    "7z2603-src.tar.xz": {
+      "url": "https://github.com/ip7z/7zip/releases/download/26.03/7z2603-src.tar.xz",
+      "sha256": "9cbde5099c6deb73691b0579063da5827522ccbbcba3f0020fd04e8c8c16c0d4"
+    },
+    "ffmpeg.tar.xz": {
+      "url": "https://ffmpeg.org/releases/ffmpeg-7.1.1.tar.xz",
+      "sha256": "733984395e0dbbe5c046abda2dc49a5544e7e0e1e2366bba849222ae9e3a03b1"
+    },
+    "perl.tar.gz": {
+      "url": "https://www.cpan.org/src/5.0/perl-5.42.0.tar.gz",
+      "sha256": "e093ef184d7f9a1b9797e2465296f55510adb6dab8842b0c3ed53329663096dc"
+    },
+    "mediainfo.dmg": {
+      "url": "https://mediaarea.net/download/binary/mediainfo/26.05/MediaInfo_CLI_26.05_Mac.dmg",
+      "sha256": "507605a7c8f1054a6996d99a4ef5b5a0711cfbf2f8ca2ef5161d6ee701ea8015"
+    },
+    "certifi-2026.06.17.tar.gz": {
+      "url": "https://codeload.github.com/certifi/python-certifi/tar.gz/refs/tags/2026.06.17",
+      "sha256": "de76d4c70f5a4fecce2522a11e01b57ea75d41d878bc590dcc43290d26a0acc8"
+    },
+    "siegfried-1.11.9.tar.gz": {
+      "url": "https://codeload.github.com/richardlehane/siegfried/tar.gz/refs/tags/v1.11.9",
+      "sha256": "5457e857a411e40d238ccfe55b2656a86aa42b4631a5aafcd7ddb662e9fd856f"
+    },
+    "sf.zip": {
+      "url": "https://github.com/richardlehane/siegfried/releases/download/v1.11.9/siegfried_1-11-9_mac64.zip",
+      "sha256": "808ca10eef7311748b4f8aa0c3263363e464b73920b0c2ad52abda97d2e8c353"
+    },
+    "sf-data.zip": {
+      "url": "https://github.com/richardlehane/siegfried/releases/download/v1.11.9/data_1-11-9.zip",
+      "sha256": "1a284a57d102996ab99e393dc40e7e213039ab44e1573c55fa9d9935840515cf"
+    },
+    "exiftool-source.tar.gz": {
+      "url": "https://codeload.github.com/exiftool/exiftool/tar.gz/refs/tags/13.55",
+      "sha256": "5c9d422ad128fab728aacc5cc0aa77095d14cde74931389dd961d3d720e6b316"
+    },
+    "archive-zip.tar.gz": {
+      "url": "https://cpan.metacpan.org/authors/id/P/PH/PHRED/Archive-Zip-1.68.tar.gz",
+      "sha256": "984e185d785baf6129c6e75f8eb44411745ac00bf6122fb1c8e822a3861ec650"
+    },
+    "wheels/defusedxml-0.7.1-py2.py3-none-any.whl": {
+      "pypi_project": "defusedxml",
+      "version": "0.7.1",
+      "sha256": "a352e7e428770286cc899e2542b6cdaedb2b4953ff269a210103ec58f6198a61"
+    },
+    "wheels/pypdf-6.1.1-py3-none-any.whl": {
+      "pypi_project": "pypdf",
+      "version": "6.1.1",
+      "sha256": "7781f99493208a37a7d4275601d883e19af24e62a525c25844d22157c2e4cde7"
+    },
+    "wheels/ijson-3.4.0.post0-cp313-cp313-macosx_11_0_arm64.whl": {
+      "pypi_project": "ijson",
+      "version": "3.4.0.post0",
+      "sha256": "07f20ecd748602ac7f18c617637e53bd73ded7f3b22260bba3abe401a7fc284e"
+    },
+    "wheels/olefile-0.47-py2.py3-none-any.whl": {
+      "pypi_project": "olefile",
+      "version": "0.47",
+      "sha256": "543c7da2a7adadf21214938bb79c83ea12b473a4b6ee4ad4bf854e7715e13d1f"
+    }
+  }
+}
